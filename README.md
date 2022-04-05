@@ -8,6 +8,8 @@
 
 - [x] User can like blog post
 
+- [x] User can comments blog post
+
 - [x] User can delete and edit blog post
 
 - [x] User need to be activate before she/he can login
