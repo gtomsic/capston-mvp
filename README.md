@@ -1,4 +1,4 @@
-> urcups blog post capstone Project
+## urcups blog post capstone project
 
 ### Blog post where user can follow each other and be updated with their connections
 
