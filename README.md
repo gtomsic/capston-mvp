@@ -10,11 +10,9 @@
 
 - [x] User can delete and edit blog post
 
-- [x] User can follow another user
-
 - [x] User need to be activate before she/he can login
 
-### If have time Administrator Page
+### If have time Administrator Page (Optional)
 
 > Admin can block user [^1]
 
