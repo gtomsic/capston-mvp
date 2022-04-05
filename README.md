@@ -12,7 +12,7 @@
 
 - [x] User can follow another user
 
-- [x] User need to be activate before she/he can login
+- [x] \_\_ User need to be activate before she/he can login
 
 ### If have time Administrator Page
 
